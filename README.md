@@ -133,7 +133,7 @@
             <button class="control-btn" id="drop-btn">⬇️</button>
         </div>
         <footer>
-            <p>Created by daffa sigma | respek ye</p>
+            <p>Created by daffa sigma skibidi | </p>
         </footer>
     </div>
 
